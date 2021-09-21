@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Adrine - @0xAco
+- 👀 I’m interested in sciences in general and love abyss. Also love things that are optimised
+- 🌱 I’m currently learning js and some of its frameworks as react, vue, angular
+- 📫 Looking to learn new things the right way
