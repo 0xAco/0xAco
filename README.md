@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Adrien - @0xAco
-- 👀 I’m interested in sciences in general and love abyss. Also enjoy things that are optimised
-- 🌱 I’m currently learning js and some of its frameworks as react, vue, angular
+- 👀 I’m interested in sciences in general and love the abyss ans sharks. Also enjoy things that are optimised
+- 🌱 I’m currently a frontend developer on vue and love designing UX/UI
 - 📫 Looking to learn new things the right way
